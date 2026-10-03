@@ -1,9 +1,5 @@
 # 📊 Desafio de Projeto: Relatório de Vendas no Power BI - DIO
 
-<p align="center">
-  <img src="Relatoriocriativo.png" alt="Preview do Dashboard" width="100%">
-</p>
-
 ## 🎯 Sobre o Projeto
 Este repositório contém a solução desenvolvida como parte do **desafio prático de Power BI da DIO**. O objetivo foi construir um relatório gerencial interativo de vendas, aplicando conceitos fundamentais de modelagem de dados, criação de medidas DAX e formatação visual.
 
@@ -26,7 +22,9 @@ Durante o desenvolvimento guiado pelas aulas, foram aplicadas boas práticas de 
 ---
 
 ## 📷 Visualização do Dashboard
-![Visualização do Dashboard](https://github.com/aluiz-91/Power_BI_Relatorio_Criativo/blob/main/RelatorioCriativo.png?raw=true)
+<p align="center">
+  <img src="Relatoriocriativo.png" alt="Preview do Dashboard" width="100%">
+</p>
 
 ---
 
