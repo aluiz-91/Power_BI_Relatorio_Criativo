@@ -26,7 +26,7 @@ Durante o desenvolvimento guiado pelas aulas, foram aplicadas boas práticas de 
 ---
 
 ## 📷 Visualização do Dashboard
-[*(Insira aqui os prints do seu relatório finalizado para ilustrar o projeto)*](https://github.com/aluiz-91/Power_BI_Relatorio_Criativo/blob/main/Relatoriocriativo.png?raw=true)
+(https://github.com/aluiz-91/Power_BI_Relatorio_Criativo/blob/main/Relatoriocriativo.png?raw=true)
 
 ---
 
